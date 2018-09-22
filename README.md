@@ -1,6 +1,5 @@
 # Lista dos Melhores Artigos Vue.js em Português
 Lista com links de artigos para todos os níveis.
----
 
 ## Contribuindo
 
