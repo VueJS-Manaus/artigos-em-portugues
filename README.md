@@ -1,4 +1,10 @@
 # Lista dos Melhores Artigos Vue.js em Português
+Lista com links de artigos para todos os níveis.
+---
+
+## Contribuindo
+
+[Quero contribuir com a Lista](contribuindo-lista.md)
 
 ## SPA
 1. [Aplicação SPA com VueJs 2 — Parte 1 — Agora é pra valer](https://codeburst.io/redesocial-spa-com-vuejs-2-parte-1-95549f49d755)
