@@ -5,6 +5,9 @@ Lista com links de artigos para todos os níveis.
 
 [Quero contribuir com a Lista](contribuindo-lista.md)
 
+## Exemplos simples
+1. https://medium.com/@demysdcl/criando-uma-lista-de-contados-simples-com-vuejs-12922fd53226
+
 ## SPA
 1. [Aplicação SPA com VueJs 2 — Parte 1 — Agora é pra valer](https://codeburst.io/redesocial-spa-com-vuejs-2-parte-1-95549f49d755)
 2. [Indexando páginas no Google de sua SPA Vue.js](http://vuejs-brasil.com.br/indexando-paginas-no-google-de-sua-spa-vue-js/)
