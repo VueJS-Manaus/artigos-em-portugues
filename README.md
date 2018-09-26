@@ -3,7 +3,11 @@ Lista com links de artigos para todos os níveis.
 
 ## Contribuindo
 
-[Quero contribuir com a Lista](contribuindo-lista.md)
+[Quero contribuir com a lista](contribuindo-lista.md)
+
+## Lista da Curadoria
+Quando falamos em lista de recursos, ferramentas e tudo relacionado ao Vue.js, o link abaixo não podia ficar de fora.
+[Coisas Incríveis relacionadas ao Vue.js](https://github.com/vuejs/awesome-vue)
 
 ## SPA
 1. [Aplicação SPA com VueJs 2 — Parte 1 — Agora é pra valer](https://codeburst.io/redesocial-spa-com-vuejs-2-parte-1-95549f49d755)
