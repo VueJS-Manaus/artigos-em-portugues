@@ -7,6 +7,7 @@ Lista com links de artigos para todos os níveis.
 
 ## Lista da Curadoria
 Quando falamos em lista de recursos, ferramentas e tudo relacionado ao Vue.js, o link abaixo não podia ficar de fora.
+
 [Coisas Incríveis relacionadas ao Vue.js](https://github.com/vuejs/awesome-vue)
 
 ## Exemplos simples
