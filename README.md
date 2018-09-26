@@ -3,7 +3,11 @@ Lista com links de artigos para todos os níveis.
 
 ## Contribuindo
 
-[Quero contribuir com a Lista](contribuindo-lista.md)
+[Quero contribuir com a lista](contribuindo-lista.md)
+
+## Lista da Curadoria
+Quando falamos em lista de recursos, ferramentas e tudo relacionado ao Vue.js, o link abaixo não podia ficar de fora.
+[Coisas Incríveis relacionadas ao Vue.js](https://github.com/vuejs/awesome-vue)
 
 ## Exemplos simples
 1.[Criando uma Lista de Contatos Simples](https://medium.com/@demysdcl/criando-uma-lista-de-contados-simples-com-vuejs-12922fd53226)
