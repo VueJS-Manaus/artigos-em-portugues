@@ -17,10 +17,12 @@ Quando falamos em lista de recursos, ferramentas e tudo relacionado ao Vue.js, o
   <tbody>
     <tr>
       <td align="center" valign="top">
-        [Criando uma Lista de Contatos Simples](https://medium.com/@demysdcl/criando-uma-lista-de-contados-simples-com-vuejs-12922fd53226)
+        <a href="https://medium.com/@demysdcl/criando-uma-lista-de-contados-simples-com-vuejs-12922fd53226">
+          Criando uma Lista de Contatos Simples
+        </a>
       </td>
       <td align="center" valign="top">
-        <img width="60" height="60" src="https://github.com/Demysdcl.png?s=60">
+        <img width="40" height="40" src="https://github.com/Demysdcl.png?s=40">
         <br>
         <a href="https://github.com/spacek33z">Demysdcl</a>
         <p>Development</p>
