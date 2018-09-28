@@ -13,7 +13,6 @@ Quando falamos em lista de recursos, ferramentas e tudo relacionado ao Vue.js, o
 ## Artigos
 
 ### Exemplos simples
-
 <table>
   <tbody>
     <tr>
