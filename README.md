@@ -24,7 +24,7 @@ Quando falamos em lista de recursos, ferramentas e tudo relacionado ao Vue.js, o
       <td align="center" valign="top">
         <img width="40" height="40" src="https://github.com/Demysdcl.png?s=40">
         <br>
-        <a href="https://github.com/spacek33z">Demysdcl</a>
+        <a href="https://github.com/Demysdcl">Demysdcl</a>
         <p>Development</p>
       </td>
      </tr>
