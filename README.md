@@ -13,7 +13,22 @@ Quando falamos em lista de recursos, ferramentas e tudo relacionado ao Vue.js, o
 ## Artigos
 
 ### Exemplos simples
-1.[Criando uma Lista de Contatos Simples](https://medium.com/@demysdcl/criando-uma-lista-de-contados-simples-com-vuejs-12922fd53226)
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        [Criando uma Lista de Contatos Simples](https://medium.com/@demysdcl/criando-uma-lista-de-contados-simples-com-vuejs-12922fd53226)
+      </td>
+      <td align="center" valign="top">
+        <img width="60" height="60" src="https://github.com/Demysdcl.png?s=60">
+        <br>
+        <a href="https://github.com/spacek33z">Demysdcl</a>
+        <p>Development</p>
+      </td>
+     </tr>
+  </tbody>
+</table>
 
 ### SPA
 1. [Aplicação SPA com VueJs 2 — Parte 1 — Agora é pra valer](https://codeburst.io/redesocial-spa-com-vuejs-2-parte-1-95549f49d755)
