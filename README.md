@@ -42,3 +42,6 @@ Quando falamos em lista de recursos, ferramentas e tudo relacionado ao Vue.js, o
 3. [Gerenciamento de Estado](https://br.vuejs.org/v2/guide/state-management.html)
 4. [Point of Vue: Arquitetura Front End com Vue.js](https://www.infoq.com/br/presentations/point-of-vue-arquitetura-front-end-com-vue-js)
 5. [Vue.js ajax patterns](https://vuejs-brasil.com.br/vue-js-ajax-patterns/)
+
+### Componentização
+1. [Série sobre componentização] (https://inside.contabilizei.com.br/componentiza%C3%A7%C3%A3o-no-front-end-3fc889a363df)
