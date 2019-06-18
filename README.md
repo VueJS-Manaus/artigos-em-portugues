@@ -44,4 +44,7 @@ Quando falamos em lista de recursos, ferramentas e tudo relacionado ao Vue.js, o
 5. [Vue.js ajax patterns](https://vuejs-brasil.com.br/vue-js-ajax-patterns/)
 
 ### Componentização
-1. [Série sobre componentização](https://inside.contabilizei.com.br/componentiza%C3%A7%C3%A3o-no-front-end-3fc889a363df)
+1. [Conceito](https://inside.contabilizei.com.br/componentiza%C3%A7%C3%A3o-no-front-end-3fc889a363df)
+2. [Dicas práticas](https://inside.contabilizei.com.br/componentiza%C3%A7%C3%A3o-no-front-end-70688e53de86)
+3. [Gift box e Isolamento de Contexto](https://inside.contabilizei.com.br/componentiza%C3%A7%C3%A3o-no-front-end-4b889f49b6b5)
+4. [Atomic Design - logo, logo]
